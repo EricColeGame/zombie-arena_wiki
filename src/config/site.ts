@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Zombie Arena Wiki",
+  shortName: "Zombie Arena",
+  logoText: "ZA",
+  tagline: "Codes, Weapons & Guides",
+  description: "Zombie Arena Wiki provides complete guides, weapon information, gameplay tips, codes, updates, and strategies to help players survive zombie battles.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://zombie-arena.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://zombie-arena.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/87272926249681/Zombie-Arena",
+  heroVideoId: "lNW7pyyLpZs", // ROBLOX SURVIVE ZOMBIE ARENA.. gameplay
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=lNW7pyyLpZs",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
