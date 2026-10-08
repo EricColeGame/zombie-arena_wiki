@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Zombie Arena Wiki is an independent fan-built guide hub providing comprehensive game knowledge, weapon information, combat strategies, active codes, and survival guides for both new players and veteran survivors.</p>
+      <p>Our mission is to help players navigate arena challenges, master weapon upgrades, and stay updated with the latest game updates and community tips.</p>
     </LegalPage>
   );
 }

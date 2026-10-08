@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Zombie Arena Wiki",
+    "shortName": "Zombie Arena",
+    "tagline": "Codes, Weapons & Guides",
+    "description": "Zombie Arena Wiki provides complete guides, weapon information, gameplay tips, codes, updates, and strategies to help players survive zombie battles.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,21 +26,21 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Zombie Arena Wiki - Codes, Weapons & Guides",
+      "description": "Zombie Arena Wiki provides complete guides, weapon information, gameplay tips, codes, updates, and strategies to help players survive zombie battles."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Zombie Survival Arena Shooter",
+      "title": "Zombie Arena Wiki",
+      "description": "Zombie Arena is a fast-paced zombie combat game where players fight waves of undead enemies, upgrade weapons, survive intense battles, and explore different arena challenges.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Survival Guides",
+        "Weapon Builds",
+        "Active Codes",
+        "Daily Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Weapon Guides",
       "tertiaryCta": "Active Codes",
       "videoLabel": "Official media"
     },
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Survive Zombie Arena?",
+      "description": "From your first wave survival to endgame arena challenges, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Zombie Arena Wiki",
+    "about": "Zombie Arena Wiki is an independent fan-built guide hub covering survival strategies, weapon upgrades, arena challenges, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Zombie Arena Wiki. Not affiliated with game creators or Roblox.",
+    "description": "Fast-paced zombie survival combat arena. Master weapons, fight waves of undead, and survive.",
+    "playGame": "Play Zombie Arena",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Weapon Builder",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
