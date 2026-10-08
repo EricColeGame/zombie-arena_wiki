@@ -1,1 +1,453 @@
-{}
+{
+  "site": {
+    "name": "Zombie Arena Wiki",
+    "shortName": "Zombie Arena",
+    "tagline": "Códigos, Armas e Guias",
+    "description": "A Zombie Arena Wiki oferece guias completos, informações sobre armas, dicas de jogabilidade, códigos, atualizações e estratégias para sobreviver às batalhas contra zumbis.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "characters": "Personagens",
+    "items": "Itens",
+    "mechanics": "Mecânicas",
+    "progression": "Progressão",
+    "controls": "Controles",
+    "codes": "Códigos",
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar Tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Zombie Arena Wiki - Códigos, Armas e Guias",
+      "description": "A Zombie Arena Wiki oferece guias completos, informações sobre armas, dicas de jogabilidade, códigos, atualizações e estratégias para sobreviver às batalhas contra zumbis."
+    },
+    "hero": {
+      "eyebrow": "Shooter de Sobrevivência Zumbi na Arena",
+      "title": "Zombie Arena Wiki",
+      "description": "Zombie Arena é um jogo dinâmico de combate contra zumbis no qual os jogadores enfrentam ondas de mortos-vivos, aprimoram armas, sobrevivem a batalhas intensas e exploram vários desafios na arena.",
+      "stats": [
+        "Guias de Sobrevivência",
+        "Builds de Armas",
+        "Códigos Ativos",
+        "Atualizações Diárias"
+      ],
+      "primaryCta": "Guia para Iniciantes",
+      "secondaryCta": "Guias de Armas",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Navegar por Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada no Zombie Arena",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda os conceitos fundamentais de ondas, acúmulo de créditos e rotas de kite iniciais para construir uma base sólida de sobrevivência."
+        },
+        {
+          "number": "2",
+          "title": "Todos os Códigos e Recompensas",
+          "description": "Resgate códigos promocionais ativos para ganhar créditos extras, caixas de armas e consumíveis gratuitos para acelerar seu progresso inicial."
+        },
+        {
+          "number": "3",
+          "title": "Melhor Escolha de Classe",
+          "description": "Escolha entre os melhores arquétipos como Engenheiro de Combate e Médico de Campo para combinar com seu estilo de jogo solo ou em equipe."
+        },
+        {
+          "number": "4",
+          "title": "Primeiro Chefe e Combate",
+          "description": "Domine a mira em pontos fracos críticos e mecânicas de esquiva para derrotar o temido Goliath nas rodadas iniciais sem ser eliminado."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta",
+      "quickLinks": [
+        "Tier List de Armas",
+        "Tier List de Classes",
+        "Modo Pesadelo",
+        "Códigos Ativos"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Domine os fundamentos das ondas, gerenciamento de moedas, armas iniciais e dicas indispensáveis de sobrevivência.",
+          "href": "/guide/zombie-arena-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Resgate códigos funcionais para obter créditos grátis, caixas, melhorias de armas e recompensas antes do término.",
+          "href": "/codes/zombie-arena-codes"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Tier List de Armas",
+          "description": "Classificação detalhada de todas as armas de fogo e corpo a corpo, desde as potências do Tier S até opções básicas do Tier C.",
+          "href": "/items/zombie-arena-weapon-tier-list"
+        },
+        {
+          "badge": "Tier List",
+          "title": "Tier List de Classes",
+          "description": "Avalie o Engenheiro de Combate, Médico de Campo, Artilheiro Pesado e todas as classes de sobreviventes para ondas avançadas.",
+          "href": "/characters/zombie-arena-class-tier-list"
+        },
+        {
+          "badge": "Combate",
+          "title": "Guia de Batalhas contra Chefes",
+          "description": "Supere chefes como Goliath, Cuspidor Bio, Ceifador e Matrona com estratégias de pontos fracos e contra-ataques de fase.",
+          "href": "/mechanics/zombie-arena-bosses"
+        },
+        {
+          "badge": "Endgame",
+          "title": "Guia do Modo Pesadelo",
+          "description": "Sobreviva à agressão ampliada das hordas, mutações de elite e modificadores brutais nas ondas de maior dificuldade.",
+          "href": "/mechanics/zombie-arena-nightmare-mode"
+        },
+        {
+          "badge": "Economia",
+          "title": "Guia de Farm de Créditos",
+          "description": "Rotas rápidas de farm, mecânicas de multiplicadores e ordem ideal de compras para equipamentos de alto nível da arena.",
+          "href": "/progression/zombie-arena-credits"
+        },
+        {
+          "badge": "Configurações",
+          "title": "Controles de PC e Teclas",
+          "description": "Mapeamento otimizado de teclado, sensibilidade de mouse e comandos de controle para uma movimentação perfeita.",
+          "href": "/controls/zombie-arena-pc-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Zombie Arena?",
+      "paragraphs": [
+        "Zombie Arena é um eletrizante shooter de sobrevivência baseado em ondas onde os jogadores enfrentam hordas implacáveis de mortos-vivos em arenas fortificadas. Com combates PvE intensos, rodadas de dificuldade crescente, personalização profunda de armamento e classes únicas de sobreviventes, cada tentativa exige coordenação apurada e gerenciamento estratégico de recursos.",
+        "Seja coordenando com um esquadrão tático no modo cooperativo, testando seus reflexos no Modo Pesadelo solo, ou disputando o topo dos placares globais com builds otimizadas de armas, nossa wiki comunitária disponibiliza tabelas verificadas, classificações de equipamentos e roteiros detalhados para cada fase da sua jornada."
+      ],
+      "stats": [
+        {
+          "label": "Gênero",
+          "value": "Shooter de Sobrevivência contra Hordas"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC / Console / Mobile"
+        },
+        {
+          "label": "Modos de Jogo",
+          "value": "PvE / Cooperativo / Pesadelo"
+        },
+        {
+          "label": "Classes",
+          "value": "8 Arquétipos"
+        },
+        {
+          "label": "Armas",
+          "value": "15+ Armas de Fogo e Corpo a Corpo"
+        },
+        {
+          "label": "Ondas Máximas",
+          "value": "Escalonamento Infinito"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explorar a Zombie Arena Wiki",
+      "description": "Domine todos os aspectos de Zombie Arena com guias completos de sobrevivência, códigos ativos, catálogo detalhado de armas e estratégias ideais de melhorias.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para Iniciantes de Zombie Arena",
+          "description": "Este módulo ajuda novos jogadores a entender o ciclo básico do jogo, estratégias de sobrevivência a ondas zumbis, uso de armas e sistemas essenciais de progressão.",
+          "href": "/guide/zombie-arena-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Acúmulo de Créditos: Foque em tiros na cabeça com pistolas iniciais nas ondas 1-3 para maximizar moedas rápidas."
+            },
+            {
+              "label": "2",
+              "detail": "Priorização de Ameaças: Elimine Corredores e Saltadores ágeis imediatamente antes de lidar com os lentos Rastejantes."
+            },
+            {
+              "label": "3",
+              "detail": "Melhorias Essenciais: Invista créditos em velocidade de recarga e tamanho de pente antes de comprar rifles caros."
+            },
+            {
+              "label": "4",
+              "detail": "Kiting Perimétrico: Mantenha rotas circulares amplas nas bordas da arena para evitar ficar preso em cantos."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Armas de Zombie Arena",
+          "description": "Uma seção dedicada a todas as armas disponíveis, melhorias de equipamento, opções de dano e recomendações para diferentes ondas.",
+          "href": "/items/zombie-arena-weapon-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Escopeta de Combate Automática e Canhão Giratório Pesado para contenção de hordas e dano explosivo em chefes."
+            },
+            {
+              "label": "A",
+              "detail": "Rifle Bullpup Tático e Submetralhadoras Duplas Shredder com ótimo manuseio e DPS consistente em ondas."
+            },
+            {
+              "label": "B",
+              "detail": "Rifle de Atirador Semiautomático e Marreta Pesada adequados para alvos únicos ou economia de munição."
+            },
+            {
+              "label": "C",
+              "detail": "Revólver de Serviço e Escopeta Serrada eficazes em rodadas iniciais, mas prejudicados por recargas demoradas."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Dicas de Sobrevivência de Zombie Arena",
+          "description": "Orientações táticas práticas cobrindo posicionamento, trabalho em equipe, controle de ondas e economia de suprimentos para durar mais.",
+          "href": "/guide/zombie-arena-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Posição",
+              "detail": "Nunca recue em direção a cantos cegos; faça rotações constantes ao redor de obstáculos centrais da arena."
+            },
+            {
+              "label": "Economia",
+              "detail": "Poupe munição primária durante ondas calmas atordoando inimigos fracos com ataques corpo a corpo rápidos."
+            },
+            {
+              "label": "Alvos",
+              "detail": "Neutralize Inchaços cuspidores de ácido à distância antes de enfrentar os tanques blindados na linha de frente."
+            },
+            {
+              "label": "Resgates",
+              "detail": "Lance granadas de atordoamento ou fumaça para dispersar o enxame antes de reviver companheiros caídos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Modos de Jogo de Zombie Arena",
+          "description": "Visão geral dos modos disponíveis, incluindo PvE cooperativo, Modo Pesadelo e partidas de sobrevivência infinita por ondas.",
+          "href": "/mechanics/zombie-arena-nightmare-mode",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PvE Coop",
+              "detail": "Sobrevivência padrão de 1 a 4 jogadores com fases graduais de compra e objetivos conjuntos."
+            },
+            {
+              "label": "Pesadelo",
+              "detail": "Dificuldade brutal com velocidade inimiga multiplicada por 1.45x e mutações perigosas desde cedo."
+            },
+            {
+              "label": "Infinito",
+              "detail": "Escalação de ondas sem limite feita para testar a resistência, munição e recordes do esquadrão."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Personagens de Zombie Arena",
+          "description": "Explicação completa das classes jogáveis, opções de personalização, árvores de habilidades e sinergias de equipe.",
+          "href": "/characters/zombie-arena-class-tier-list",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Engenheiro",
+              "detail": "Especialista Tier S em contenção usando torres sentinelas automáticas e geração passiva de munição."
+            },
+            {
+              "label": "Médico",
+              "detail": "Suporte Tier S oferecendo cura em área de emergência, reanimação veloz e reforços cruciais de velocidade."
+            },
+            {
+              "label": "Artilheiro",
+              "detail": "Pilar da linha de frente Tier A com armadura pesada e disparo contínuo de supressão de hordas."
+            },
+            {
+              "label": "Demolição",
+              "detail": "Poder de fogo Tier A com dano explosivo massivo em área ideal contra multidões compactas."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Atualizações de Zombie Arena",
+          "description": "Compilação de patches oficiais, notas de atualização, anúncios da equipe de desenvolvimento e novos conteúdos.",
+          "href": "/controls/zombie-arena-update",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Patch 1.2",
+              "detail": "Buffer de comandos aprimorado e resposta de giro mais ágil em todas as transições de movimento."
+            },
+            {
+              "label": "Balanceamento",
+              "detail": "Recuo de armas ajustado, novos acessórios disponíveis e dispersão de chumbo de escopetas recalculada."
+            },
+            {
+              "label": "Netcode",
+              "detail": "Sincronização multiplayer otimizada e menor latência no registro de acertos nas partidas em coop."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Plataformas de Zombie Arena",
+          "description": "Informações sobre compatibilidade, requisitos de sistema, suporte a controles e formas de jogar nos diferentes dispositivos.",
+          "href": "/controls/zombie-arena-pc-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC Steam",
+              "detail": "Suporte nativo a entrada 1:1 de mouse, taxas de quadros desbloqueadas e teclas totalmente remapeáveis."
+            },
+            {
+              "label": "Controle",
+              "detail": "Suporte nativo a controles com curvas de resposta dinâmicas, calibração de zona morta e pás traseiras."
+            },
+            {
+              "label": "Comunidade",
+              "detail": "Salas de servidores multiplataforma com placares sincronizados e pareamento comunitário."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Comunidade de Zombie Arena",
+          "description": "Canais oficiais de jogadores para acompanhar novidades, formar equipes, compartilhar táticas e discutir sobre o jogo.",
+          "href": "/controls/zombie-arena-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Participe de salas ativas para busca de esquadrão, builds competitivas e perguntas aos desenvolvedores."
+            },
+            {
+              "label": "Códigos",
+              "detail": "Acompanhe novos códigos promocionais em tempo real, marcos da comunidade e avisos de servidores."
+            },
+            {
+              "label": "Rankings",
+              "detail": "Compartilhe capturas de ondas completadas, pontuações recordes e fugas no Modo Pesadelo."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre Zombie Arena.",
+      "items": [
+        {
+          "question": "O que é Zombie Arena?",
+          "answer": "Zombie Arena é um jogo de tiro e sobrevivência por ondas com ritmo acelerado, onde os jogadores enfrentam hordas crescentes de infectados, aprimoram armas, desbloqueiam classes e sobrevivem em coliseus eletrizantes."
+        },
+        {
+          "question": "Como resgato códigos no Zombie Arena?",
+          "answer": "Para resgatar códigos no Zombie Arena, abra o jogo, vá até o menu de Configurações ou Recompensas, clique no botão Códigos, digite o código exatamente como mostrado e confirme para receber créditos e caixas de bônus."
+        },
+        {
+          "question": "Qual é a melhor arma no Zombie Arena?",
+          "answer": "A Escopeta de Combate Automática e o Canhão Giratório Pesado são armas de Tier S no Zombie Arena, entregando excelente controle de multidões a curta distância e alto poder de perfuração contra chefes de elite."
+        },
+        {
+          "question": "Qual classe os iniciantes devem escolher no Zombie Arena?",
+          "answer": "O Engenheiro de Combate e o Médico de Campo são recomendados para iniciantes no Zombie Arena por causa das torres de defesa automáticas, capacidade de autocura e suporte versátil para o time."
+        },
+        {
+          "question": "Como funciona o Modo Pesadelo no Zombie Arena?",
+          "answer": "O Modo Pesadelo no Zombie Arena acelera a velocidade dos inimigos em 1.45x, inclui mutações hostis desde as primeiras rodadas, reduz o tempo para reviver aliados e diminui as caixas de suprimentos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Sobreviver no Zombie Arena?",
+      "description": "Da sua primeira onda superada aos desafios mais intensos da arena, nossa wiki comunitária traz tudo o que você precisa com guias gratuitos e atualizados.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice de Conteúdo",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Zombie Arena Wiki",
+    "about": "A Zombie Arena Wiki é um portal independente criado por fãs com estratégias de sobrevivência, melhorias de armas, desafios de arena e conhecimentos essenciais tanto para novatos quanto para veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Zombie Arena Wiki. Não afiliado aos criadores do jogo nem ao Roblox.",
+    "description": "Arena de combate e sobrevivência rápida contra zumbis. Domine armas, enfrente ondas de mortos-vivos e sobreviva.",
+    "playGame": "Jogar Zombie Arena",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Criador de Armas",
+    "beginnerGuide": "Guia para Iniciantes",
+    "raceGuides": "Personagens",
+    "bossGuides": "Mecânicas",
+    "buildGuide": "Itens",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  },
+  "guide": {
+    "overviewTitle": "Guias e Tutoriais de Zombie Arena",
+    "overviewDescription": "Guias essenciais, dicas de iniciantes e tutoriais passo a passo para dominar o Zombie Arena."
+  },
+  "characters": {
+    "overviewTitle": "Personagens e Classes de Zombie Arena",
+    "overviewDescription": "Explore todas as classes jogáveis, árvores de habilidades, talentos e avaliações de personagens."
+  },
+  "items": {
+    "overviewTitle": "Armas e Itens de Zombie Arena",
+    "overviewDescription": "Catálogo completo de armas de fogo, equipamentos do vazio e tier lists de itens no Zombie Arena."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Jogo e Chefes de Zombie Arena",
+    "overviewDescription": "Análise aprofundada de sobrevivência por ondas, defesa de base, artefatos e confrontos com chefes."
+  },
+  "progression": {
+    "overviewTitle": "Progressão e Evolução no Zombie Arena",
+    "overviewDescription": "Maximize créditos, subida de nível, missões, farm de fragmentos do vazio e rankings na arena."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Configurações de Zombie Arena",
+    "overviewDescription": "Mapeamento de teclas, configurações de PC, links da comunidade e notas de atualização do Zombie Arena."
+  },
+  "codes": {
+    "overviewTitle": "Códigos Promocionais de Zombie Arena",
+    "overviewDescription": "Todos os códigos promocionais ativos e funcionais do Zombie Arena para resgatar créditos e recompensas grátis."
+  }
+}
