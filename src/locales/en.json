@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your zombie arena Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn core wave fundamentals, currency stacking, and early kiting routes to build a solid survival foundation."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Codes & Rewards",
+          "description": "Redeem active promo codes for bonus credits, weapon crates, and free consumables to accelerate early progression."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Class Selection",
+          "description": "Choose between top archetypes like Combat Engineer and Field Medic to match your preferred solo or squad playstyle."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "First Boss & Combat",
+          "description": "Master critical weakpoint targeting and dodge mechanics to take down early-round Goliath juggernauts without wiping."
         }
       ]
     },
@@ -62,237 +62,281 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Weapon Tier List",
+        "Class Tier List",
+        "Nightmare Mode",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master wave fundamentals, currency management, starter weapons, and essential survival tips.",
+          "href": "/guide/zombie-arena-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Redeem working codes for free credits, crates, weapon boosts, and rewards before expiration.",
+          "href": "/codes/zombie-arena-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Tier List",
+          "title": "Weapon Tier List",
+          "description": "Comprehensive rankings of all firearms and melee weapons from S-Tier powerhouses to C-Tier starters.",
+          "href": "/items/zombie-arena-weapon-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Tier List",
+          "title": "Class Tier List",
+          "description": "Evaluate Combat Engineer, Field Medic, Heavy Gunner, and every survivor class for deep wave survival.",
+          "href": "/characters/zombie-arena-class-tier-list"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Combat",
+          "title": "Boss Encounter Guide",
+          "description": "Conquer Goliath, Bio-Spitter, Reaper, and Matron bosses with weak point strategies and phase counters.",
+          "href": "/mechanics/zombie-arena-bosses"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Endgame",
+          "title": "Nightmare Mode Guide",
+          "description": "Survive amplified horde aggression, elite mutations, and punishing modifiers in highest difficulty waves.",
+          "href": "/mechanics/zombie-arena-nightmare-mode"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Economy",
+          "title": "Credits Farming Guide",
+          "description": "Fast farming routes, multiplier mechanics, and optimal spending order for high-tier arena gear.",
+          "href": "/progression/zombie-arena-credits"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Settings",
+          "title": "PC Controls & Keybinds",
+          "description": "Optimized keyboard, mouse sensitivity, and controller button mappings for seamless mobility.",
+          "href": "/controls/zombie-arena-pc-controls"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is zombie arena?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "zombie arena is a high-octane wave-based survival shooter where players face relentless hordes of undead monstrosities in barricaded colosseums. Featuring intense PvE horde combat, escalating difficulty rounds, deep weapon customization, and distinct survivor classes, every run demands spatial discipline and strategic resource management.",
+        "Whether you are coordinating with a tactical squad in co-op matchmaking, testing your mechanical reflexes on solo Nightmare Mode, or climbing the global leaderboards with optimized weapon builds, our community wiki provides verified data tables, loadout rankings, and tactical walkthroughs for every stage of your run."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
-        },
-        {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Horde Survival Shooter"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "PC / Console / Mobile"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Game Modes",
+          "value": "PvE / Co-op / Nightmare"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Classes",
+          "value": "8 Archetypes"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Weapons",
+          "value": "15+ Firearms & Melee"
+        },
+        {
+          "label": "Max Waves",
+          "value": "Endless Scaling"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore zombie arena Wiki",
+      "description": "Master every aspect of zombie arena with comprehensive survival guides, active codes, complete weapon catalogs, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "zombie arena Beginner Guide",
+          "description": "This module helps new players understand the core gameplay loop, zombie wave survival strategies, weapon usage, and basic progression systems. It targets beginner searches from players looking for how to start and survive longer in Zombie Arena.",
+          "href": "/guide/zombie-arena-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Currency Stacking: Focus precision headshots with starter pistols on Waves 1-3 to maximize early credits."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Threat Assessment: Prioritize fast Sprinters and Leapers immediately before managing slow Shamblers."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Utility Unlocks: Invest credits in reload speed and magazine upgrades before purchasing expensive rifles."
+            },
+            {
+              "label": "4",
+              "detail": "Perimeter Kiting: Maintain wide circular routes around arena edges to avoid corner traps."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "zombie arena Weapons Guide",
+          "description": "A weapons-focused section covering available guns, weapon upgrades, damage options, and recommended choices for different zombie waves. This matches common searches from players comparing equipment and builds.",
+          "href": "/items/zombie-arena-weapon-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Auto-Combat Shotgun & Heavy Rotary Cannon for unmatched crowd funneling and elite boss burst."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Tactical Bullpup AR & Dual Shredder SMGs offering snappy handling and reliable wave-clearing DPS."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Semi-Auto Marksman Rifle & Sledgehammer suited for single-target picks or ammo-free stalling."
+            },
+            {
+              "label": "C",
+              "detail": "Service Revolver & Sawed-Off Shotgun effective for early rounds but hindered by punishing reloads."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "zombie arena Survival Tips",
+          "description": "This module provides practical combat advice including positioning, teamwork, wave management, and resource usage. It targets players searching for ways to improve their survival time and complete harder challenges.",
+          "href": "/guide/zombie-arena-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Position",
+              "detail": "Never backpedal into uninspected blind corners; rotate continuously around central obstacles."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Economy",
+              "detail": "Conserve primary ammunition during quiet waves by staggering low-tier enemies with quick melee."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Targeting",
+              "detail": "Neutralize acid-spitting Bloaters from range before engaging frontline armored brutes."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Revives",
+              "detail": "Deploy flash or smoke ordnance to clear swarm density before initiating clutch teammate revives."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "zombie arena Game Modes",
+          "description": "A breakdown of available modes such as PvE, PvP, co-op, and wave-based survival experiences. This helps users understand multiplayer options before playing.",
+          "href": "/mechanics/zombie-arena-nightmare-mode",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "PvE Co-op",
+              "detail": "Standard 1-4 player wave survival with progressive vendor phases and shared objectives."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Nightmare",
+              "detail": "Punishing difficulty with 1.45x enemy sprint multipliers and aggressive mutant mutations."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Endless",
+              "detail": "Infinite wave scaling designed to test squad stamina, ammo discipline, and leaderboard limits."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "zombie arena Characters Guide",
+          "description": "This module explains playable characters, customization options, and progression choices when character systems are available. It targets users searching for character information and recommended setups.",
+          "href": "/characters/zombie-arena-class-tier-list",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Engineer",
+              "detail": "S-Tier lockdown specialist utilizing automated sentry turrets and passive squad ammo generation."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Medic",
+              "detail": "S-Tier support archetype providing emergency area heals, quick revives, and clutch speed boosts."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Gunner",
+              "detail": "A-Tier frontline anchor with heavy armor mitigation and sustained belt-fed crowd suppression."
+            },
+            {
+              "label": "Demolition",
+              "detail": "A-Tier area-of-effect powerhouse dealing massive explosive burst damage to clustered swarms."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "zombie arena Updates",
+          "description": "A news section collecting official updates, announcements, release information, and development changes. It helps capture searches related to patches, new content, and game status.",
+          "href": "/controls/zombie-arena-update",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Patch 1.2",
+              "detail": "Tighter input buffering and refined turn-speed responsiveness across all movement transitions."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Balancing",
+              "detail": "Overhauled weapon recoil curves, expanded attachment pools, and rebalanced shotgun pellet spread."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Netcode",
+              "detail": "Optimized multiplayer synchronization and reduced hit-registration latency in co-op matches."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "zombie arena Platforms",
+          "description": "This module lists supported platforms, availability information, and where players can access the game. It targets searches such as download, PC, mobile, and Roblox versions.",
+          "href": "/controls/zombie-arena-pc-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC Steam",
+              "detail": "Supports raw 1:1 mouse input, uncapped frame rates, and fully customizable keyboard hotkeys."
+            },
+            {
+              "label": "Gamepad",
+              "detail": "Native controller support with dynamic response curves, deadzone tuning, and paddle mapping."
+            },
+            {
+              "label": "Community",
+              "detail": "Cross-platform server lobbies with synchronized leaderboards and community matchmaking."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "zombie arena Community",
+          "description": "A community section highlighting official player channels and places where users can follow announcements or discuss strategies. It supports searches related to Discord, social media, and player groups.",
+          "href": "/controls/zombie-arena-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Join active discussion channels for squad matchmaking, competitive loadouts, and live dev Q&As."
+            },
+            {
+              "label": "Codes",
+              "detail": "Track real-time promotional code releases, milestone rewards, and server compensation announcements."
+            },
+            {
+              "label": "Rankings",
+              "detail": "Share verified wave completion screenshots, high scores, and Nightmare Mode extraction records."
             }
           ]
         }
@@ -300,27 +344,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about zombie arena.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is zombie arena?",
+          "answer": "zombie arena is a fast-paced wave survival combat game where players fight escalating hordes of infected undead, upgrade firearms, unlock specialized character classes, and survive intense colosseum encounters."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem zombie arena codes?",
+          "answer": "To redeem zombie arena codes, launch the game, navigate to the Settings or Rewards menu, tap the Codes button, enter the active code string exactly as shown, and confirm to claim your free credits and booster crates."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the best weapon in zombie arena?",
+          "answer": "The Auto-Combat Shotgun and Heavy Rotary Cannon are top-ranked S-Tier weapons in zombie arena, delivering unmatched close-quarters crowd control and heavy armor piercing against elite waves."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which character class should beginners pick in zombie arena?",
+          "answer": "Combat Engineer and Field Medic are recommended for beginners in zombie arena due to their automated turret defenses, self-sustain healing, and generous team utility."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does Nightmare Mode work in zombie arena?",
+          "answer": "Nightmare Mode in zombie arena increases base enemy sprint speeds by 1.45x, introduces aggressive mutant variants from early rounds, shortens revive bleedout timers, and reduces supply drop frequency."
         }
       ]
     },
