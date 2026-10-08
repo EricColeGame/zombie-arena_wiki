@@ -6,7 +6,18 @@
     "description": "Zombie Arena Wiki provides complete guides, weapon information, gameplay tips, codes, updates, and strategies to help players survive zombie battles.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "controls": "Controls",
+    "codes": "Codes",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme"
+  },
   "home": {
     "meta": {
       "title": "Zombie Arena Wiki - Codes, Weapons & Guides",
@@ -375,7 +386,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -406,10 +416,38 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Weapon Builder",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Characters",
+    "bossGuides": "Mechanics",
+    "buildGuide": "Items",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Zombie Arena Guides & Tutorials",
+    "overviewDescription": "Essential guides, beginner tips, and walkthroughs to help you master Zombie Arena."
+  },
+  "characters": {
+    "overviewTitle": "Zombie Arena Characters & Classes",
+    "overviewDescription": "Explore all playable classes, skill builds, abilities, and character tier evaluations."
+  },
+  "items": {
+    "overviewTitle": "Zombie Arena Weapons & Items",
+    "overviewDescription": "Complete catalog of weapons, guns, void gear, and item tier lists in Zombie Arena."
+  },
+  "mechanics": {
+    "overviewTitle": "Zombie Arena Game Mechanics & Bosses",
+    "overviewDescription": "In-depth breakdown of wave survival mechanics, base defense, artifacts, and boss battles."
+  },
+  "progression": {
+    "overviewTitle": "Zombie Arena Progression & Leveling",
+    "overviewDescription": "Maximize credits, level progression, quests, void shard farming, and leaderboard rankings."
+  },
+  "controls": {
+    "overviewTitle": "Zombie Arena Controls & Settings",
+    "overviewDescription": "Keybinds, PC control schemes, community links, and patch updates for Zombie Arena."
+  },
+  "codes": {
+    "overviewTitle": "Zombie Arena Promo Codes",
+    "overviewDescription": "All active and working promo codes for Zombie Arena to claim free rewards and credits."
   }
 }
